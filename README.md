@@ -1,4 +1,6 @@
-## Fascinated by the power of data, the evolution of decentralized finance, and the dynamics of global currency markets. I turn complex information into clear insights, from DeFi trends to FX movements, while building my skills in data science and exploring opportunities at the intersection of data and finance.
+## -Fascinated by the power of data
+## -the evolution of decentralized finance, and the dynamics of global currency markets. 
+## -I turn complex information into clear insights, from DeFi trends to FX movements, while building my skills in data science and exploring opportunities at the intersection of data and finance.
 
 <!--
 **Xaheer0/Xaheer0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
